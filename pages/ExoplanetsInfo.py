@@ -86,7 +86,7 @@ These planets could have vast amounts of water, either on the surface or trapped
 """)
 
 #Explanation of the images below
-st.markdown("<p class='styled-subheader'>The images below provide information about the atmospheres and life of exoplanets,Importance of exoplanets research and futre Explorations of exoplanets</p>", unsafe_allow_html=True)
+st.markdown("<p class='styled-subheader'>The images below provide information about the atmospheres and life of exoplanets,Importance of exoplanets research and Future Explorations of exoplanets</p>", unsafe_allow_html=True)
 
 # Creating another 3 images per row
 cols = st.columns(3)
